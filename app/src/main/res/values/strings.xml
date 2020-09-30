@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lesson_1</string>
+    <string name="register_button_text">Регистрация!</string>
+    <string name="Heading_1">Регистрация</string>
+    <string name="image_text">Image</string>
+    <string name="birthdate_text">Дата рождения</string>
+    <string name="success_text">Вы успешно залогинились!</string>
+</resources>
